@@ -3,14 +3,14 @@ This is the implementation for 4 searching algorithm : Breadth First Search (BFS
 Coloring convention:
   • Blue: visited vertex
   • Red: has just discovered vertex
-  • Màu đen: unvisited vertex
-  • Màu vàng: current vertex
-  • Màu tím: goal vertex
-  • Màu cam: start vertex
-  • Màu xanh lá: edges of found path
-  • Màu xám: unvisited vertices or edges
-  • Màu trắng: visited edges
+  • Black: unvisited vertex
+  • Yellow: current vertex
+  • Purple: goal vertex
+  • Orange: start vertex
+  • Green: edges of found path
+  • Grey: unvisited vertices or edges
+  • White: visited edges
   
-  
+ 
   - How to run code?
   • python main.py input.txt <name of the algorithm> (bfs, dfs, ucs, a_star)
